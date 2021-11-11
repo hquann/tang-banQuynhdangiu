@@ -1,19 +1,18 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'Xin chèoo!',
+    introDesc: `Gởi choa bạn Quềnh aka bé mèo bíu siu đáng iu
+    Ấn vô dưới để cóa nhiều điều bất ngờ nhé`,
+    btnIntro: 'đây nè má',
+    title: 'Yay chúc mừng sinh nhật tủi mừi tắm cụa bé mèo méo meo nhaa =)))',
+    desc: 'Chúc bạn Quỳnh tuổi mới xinh đẹp mạnh khoẻ học roải và đỗ AEISEC nhaa.
+Không biết là tui coá thể mời banh Quềnh đi chơi 1 bủi khum nhị 😳🙄😳',
+    btnYes: 'Okii đoòng ý nhaa :>',
+    btnNo: 'không tự đi 1 mình ik (đố ấn được zô đây keke)',
+    question:'Bạn Quềnh coá mún tui làm gì tặng sinh nhật khum nè, hoặc là coá mún nói rì vứi tui hem hêh',
+    btnReply: 'day ne',
+    reply: 'cám ưn hquan đẹp trai đáng iu cute nhiều nha',
+    mess: 'Tôi biết mà hehe! Anw chúc mừng sinh nhật nghenn mong là bọn mình sẽ nói chuyện nhiều hơn ha',
+    messDesc: 'Happy birthdayyy tủi 18 siêu đẹp nha!!!',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/hoang.quan.091203' 
 }
